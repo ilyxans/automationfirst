@@ -43,7 +43,7 @@ function selectItems(product){
     element(by.linkText("Shop")).click();
     
     selectItems("Nokia Edge");
-    selectItems("Nokia Edge");
+    selectItems("Blackberry");
     selectItems("Blackberry");
 
 
